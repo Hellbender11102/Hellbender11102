@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Laurenz Schindler
+- 👋 Hi, I’m L. Schindler
 - :page_with_curl: Have wirtten code in: Java, PHP, JS, Python, C, Assambler, Dart
 - :wrench: Tools i used: JetBrains, VSCode, Eclipse, MariaDB, SQLWorkbench, Jupyter-Notebook, XAMPP, Docker, Wireshark, Google Cloud Platform, GitBucket
 
